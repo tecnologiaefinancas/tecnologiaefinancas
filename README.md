@@ -8,13 +8,13 @@
     <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/>  
-
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/> <br> 
+JAVA  |  Git  |  Docker  |  AWS 
 
 </section>       
 
 ### Languages
-English C1, Brazilian Portuguese Native, Spanish C1.
+English C1 | Brazilian Portuguese Native | Spanish C1.
 
 ## Contact
 <section>
@@ -28,23 +28,23 @@ English C1, Brazilian Portuguese Native, Spanish C1.
 
 ______
 
-Approved for CFA Level 1 in August 2022.
+**Approved for CFA Level 1** in August 2022.
 
 I talk about #technology, #finance, #blockchain, #habits, and #leadership.
 
-Over 4 years of experience in web development and mobile application development [Java, Git, SQL, Android, Wordpress]
+Over **4 years of experience in web development and mobile application development** [Java, Git, SQL, Android, Wordpress]
 
-I have 9 years of experience in the financial market, with commercial experience in Agribusiness, Investment Management and Private Banking.
+I have **9 years of experience in the financial market**, with commercial experience in Agribusiness, Investment Management and Private Banking. I also worked in the Management of Hedge Funds until officially transitioning to IT, developing applications for the Offshore Fund Management area.
 
-I have experience and communication skills with diverse audiences. I have managed investment portfolios in 3 different regions of Brazil, both online and in-person. From small rural producers in the country area of Sergipe, the smallest state of Brazil, to large entrepreneurs and mega-producers in São Paulo's capital.
+I have **experience and communication skills with diverse audiences**. I have managed investment portfolios in 3 different regions of Brazil, both online and in-person. From small rural producers in the country area of Sergipe, the smallest state of Brazil, to large entrepreneurs and mega-producers in São Paulo's capital.
 
 I can demonstrate both: commercial and technical skills.
 
 >> Advanced English.
 
-Lifelong Learning - currently studying: Java, Spring Boot, Kubertnets, Cloud ☁️ (AWS), React JS, Spanish Conversation.
+**Lifelong Learning - currently studying**: Java, Spring Boot, Kubertnets, Cloud ☁️ (AWS), React JS, Spanish Conversation.
 
-I am a content creator for youtube and instagram, manly about habits and career (mainly in Technology and Finance).
+I am a **content creator for youtube and instagram**, manly about habits and career (mainly in Technology and Finance).
 
 I play volleyball, run and have a cute dog. 🏃🏻‍♀️🏐🐶
 
@@ -56,7 +56,7 @@ Falo sobre #tecnologia, #financas, #blockchain, #habitos e #lideranca
 
 Mais de 4 anos de experiência no desenvolvimento web e aplicativo Android. [Java, Git, SQL, Android, Wordpress]. Posso trabalhar Full Stack, mas minha área de atuação é majoritariamente Backend.
 
-Há 9 anos no Mercado Financeiro, com experiência comercial na área de Agronegócios, Gerência Alta Renda exclusiva de Investimentos e no Private Banking.
+Experiência de 9 anos no Mercado Financeiro, na área comercial de Agronegócios, Gerência Alta Renda exclusiva de Investimentos e no Private Banking. Também atuei na Gestão de Fundos Multimercado, até migrar oficialmente para TI no desenvolvimento de aplicações para atendimento da área Offshore de Gestão de Fundos.
 
 Possuo experiência e habilidade de comunicação com diversos públicos. Realizei atendimentos com carteiras Nordeste, Sul e Sudeste, tanto online quanto presencial. Desde o pequeno produtor rural do interior de Sergipe, quanto a grandes empresários e mega produtores na capital de São Paulo.
 
