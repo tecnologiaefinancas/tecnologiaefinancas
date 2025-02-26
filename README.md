@@ -26,6 +26,9 @@ English C1 | Brazilian Portuguese Native | Spanish C1.
         <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
     </a>
 </section>
+</br>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnologiaefinancas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  /><div>
 
 ______
 
