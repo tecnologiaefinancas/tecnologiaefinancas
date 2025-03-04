@@ -34,8 +34,6 @@ ______
 
 **Approved for CFA Level 1** in August 2022.
 
-I talk about #technology, #finance, #blockchain, #habits, and #leadership.
-
 Over **4 years of experience in web development and mobile application development** [Java, Git, SQL, Android, Wordpress]
 
 I have **9 years of experience in the financial market**, with commercial experience in Agribusiness, Investment Management and Private Banking. I also worked in the Management of Hedge Funds until officially transitioning to IT, developing applications for the Offshore Fund Management area.
@@ -55,8 +53,6 @@ I play volleyball, run and have a cute dog. 🏃🏻‍♀️🏐🐶
 ______
 
 Aprovada no CFA Level 1 de Agosto de 2022.
-
-Falo sobre #tecnologia, #financas, #blockchain, #habitos e #lideranca
 
 Mais de 4 anos de experiência no desenvolvimento web e aplicativo Android. [Java, Git, SQL, Android, Wordpress]. Posso trabalhar Full Stack, mas minha área de atuação é majoritariamente Backend.
 
