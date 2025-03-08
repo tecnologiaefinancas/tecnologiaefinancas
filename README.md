@@ -44,7 +44,7 @@ I can demonstrate both: commercial and technical skills.
 
 >> Advanced English.
 
-**Lifelong Learning - currently studying**: Java, Spring Boot, Kubertnets, Cloud ☁️ (AWS), React JS, Spanish Conversation.
+**Lifelong Learning - currently studying**: Java, Spring Boot, React JS, Kubertnets, Cloud ☁️ (AWS).
 
 I am a **content creator for youtube and instagram**, manly about habits and career (mainly in Technology and Finance).
 
@@ -62,7 +62,7 @@ Possuo experiência e habilidade de comunicação com diversos públicos. Realiz
 
 >> Inglês Avançado.
 
-Atualmente estudo: Java, Spring Boot, Kubernetes, Cloud ☁️ (AWS), Conversação Espanhol.
+Atualmente estudo: Java, Spring Boot, React JS, Kubernetes, Cloud ☁️ (AWS).
 
 Sou criadora de conteúdos para o YouTube e Instagram, principalmente sobre hábitos e carreira (principalmente em Tecnologia e Finanças). Procure por "Nat Tecnologia e Finanças".
 
