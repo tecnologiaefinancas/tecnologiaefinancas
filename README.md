@@ -1,17 +1,32 @@
 # Natalia Feitosa
 
-### Java Software Engineer & Investment Specialist
+### Software Engineer & Investment Specialist
 
 ## Qualifications
 ### Skills
 <section>
-    <img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/> <br> 
-JAVA  |  Git  |   React JS  |  Docker  |  AWS 
-
+<table>
+    <tr>
+      <th><img height="40" margin="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></th>
+      <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/><br/></th>
+    <th> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS"/></th>
+        <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next JS"/></th>
+    <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  alt="Docker"/></th>
+    <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  alt="AWS"/></th>
+            <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  alt="Azure"/></th>
+                    <th><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  alt="Python"/></th>
+    </tr>
+    <tr>
+        <th>JAVA</th>
+        <th>Git</th>
+        <th>React JS</th>
+        <th>Next JS</th>
+        <th>Docker</th>
+        <th>AWS</th>
+        <th>Azure</th>
+        <th>Python</th>
+    </tr>
+</table>
 </section>       
 
 ### Languages
