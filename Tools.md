@@ -5,7 +5,7 @@
 - Node.js
 - Spring Boot
 - Python
-<details>
+  <details>
   <summary>Python Libraries</summary>
 
   - [Matplotlib](https://matplotlib.org/stable/index.html)
@@ -22,6 +22,7 @@
 - JavaScript
 - React.js
 - Next.js
+- [Tailwind](https://tailwindcss.com/)
 
   <details>
   <summary>React UI & Icon Libraries</summary>
@@ -47,7 +48,7 @@
   - [Neon](https://neon.tech/) - PostgreSQL Free
 
 
-## Deployment
+## Cloud Deployment
 
   - [AWS](https://aws.amazon.com/)
   - [Azure](https://azure.microsoft.com/)
