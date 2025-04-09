@@ -55,4 +55,14 @@
   - [Render](https://render.com/) - Free
   - [Vercel](https://vercel.com/) - Free
 
+## AIs
+
+- [ChatGPT](https://openai.com/chatgpt/overview/)
+- [Copilot Microsoft](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+- [Gemini Google](https://ai.google.dev/gemini-api/docs)
+- [Claude](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+- [Deepseek](https://api-docs.deepseek.com/)
+- [Flora AI](https://www.florafauna.ai)
+- [Same.dev](https://same.dev/)
+- [Firebase Google](https://studio.firebase.google.com/)
 
