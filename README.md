@@ -47,38 +47,52 @@ English C1 | Brazilian Portuguese Native | Spanish C1.
 
 ______
 
-**Approved for CFA Level 1** in August 2022.
+I am a bilingual (Portuguese/English) professional with over four (4) years of experience in web and mobile application development, specializing in Java, React Js, Android. Additionally, I have nine (9) years of experience in the financial market, encompassing agribusiness, investment management, and private banking.
 
-Over **4 years of experience in web development and mobile application development** [Java, Git, SQL, Android, Wordpress]
+My diverse background has equipped me with strong communication skills and the ability to connect with varied audiences. I have successfully managed investment portfolios across three different regions of Brazil, both online and in-person, working with a wide range of clients from small rural producers in Sergipe to large entrepreneurs and mega-producers in São Paulo.
 
-I have **9 years of experience in the financial market**, with commercial experience in Agribusiness, Investment Management and Private Banking. I also worked in the Management of Hedge Funds until officially transitioning to IT, developing applications for the Offshore Fund Management area.
+### Educational and Professional Achievements:
+- Approved for CFA Level 1 in August 2022
+- **Advanced English** proficiency
+- **Advanced Spanish**: reading and listening. Intermediate: writing and speaking.
+- YouTuber and Content Creator: I create content related to #technology, #finance, #habits, and #leadership on YouTube and Instagram.
 
-I have **experience and communication skills with diverse audiences**. I have managed investment portfolios in 3 different regions of Brazil, both online and in-person. From small rural producers in the country area of Sergipe, the smallest state of Brazil, to large entrepreneurs and mega-producers in São Paulo's capital.
+### Technical Expertise:
+- **Backend:** Java, Spring Boot, SQL, NoSQL, Git, Android, PostgreSQL, MongoDB, Kafka, Python
+- **Frontend:** React JS, Next JS, JavaScript, Typescript, WordPress
+- **Cloud and DevOps:** AWS, Azure, Docker, CI/CD pipelines
+- **Additional Expertise:** API integration
 
-I can demonstrate both: commercial and technical skills.
+Lifelong Learner: Currently pursuing studies in Java, Kubernetes, Cloud ☁️ (AWS and Azure) and Spanish conversation.
 
->> Advanced English.
+Personal Interests:
+- I am passionate about nature, volleyball, running, and spending time with my cute dog. 🏃🏻‍♀️🏐🐶
 
-**Lifelong Learning - currently studying**: Java, Spring Boot, React JS, Kubertnets, Cloud ☁️ (AWS).
-
-I am a **content creator for youtube and instagram**, manly about habits and career (mainly in Technology and Finance).
-
-I play volleyball, run and have a cute dog. 🏃🏻‍♀️🏐🐶
+Combining my commercial acumen with technical prowess, I strive to approach challenges creatively and effectively, continuously seeking opportunities for growth and improvement.
 
 ______
 
-Aprovada no CFA Level 1 de Agosto de 2022.
+Sou uma profissional bilíngue (português/inglês) com mais de quatro (4) anos de experiência no desenvolvimento de aplicações web e mobile, especializada em Java, React JS e Android. Além disso, possuo nove (9) anos de experiência no Mercado Financeiro, abrangendo agronegócio, gestão de investimentos e private banking.
 
-Mais de 4 anos de experiência no desenvolvimento web e aplicativo Android. [Java, Git, SQL, Android, Wordpress]. Posso trabalhar Full Stack, mas minha área de atuação é majoritariamente Backend.
+Minha experiência diversificada me proporcionou fortes habilidades de comunicação e a capacidade de me conectar com diferentes públicos. Gerenciei com sucesso carteiras de investimentos em três (3) regiões diferentes do Brasil, tanto online quanto presencialmente, trabalhando com uma ampla gama de clientes, desde pequenos produtores rurais em Sergipe até grandes empresários e mega produtores em São Paulo.
 
-Experiência de 9 anos no Mercado Financeiro, na área comercial de Agronegócios, Gerência Alta Renda exclusiva de Investimentos e no Private Banking. Também atuei na Gestão de Fundos Multimercado, até migrar oficialmente para TI no desenvolvimento de aplicações para atendimento da área Offshore de Gestão de Fundos.
+### Conquistas educacionais e profissionais:
+- Aprovado no CFA Level 1 em agosto de 2022
+- Proficiência avançada em inglês
+- Espanhol avançado: leitura e compreensão auditiva. Intermediário: escrita e conversação.
+- YouTuber e Criador de Conteúdo: crio conteúdo relacionado a #tecnologia, #finanças, #hábitos e #liderança no YouTube e Instagram.
 
-Possuo experiência e habilidade de comunicação com diversos públicos. Realizei atendimentos com carteiras Nordeste, Sul e Sudeste, tanto online quanto presencial. Desde o pequeno produtor rural do interior de Sergipe, quanto a grandes empresários e mega produtores na capital de São Paulo.
+### Experiência técnica:
+- Backend: Java, Spring Boot, SQL, NoSQL, Git, Android, PostgreSQL, MongoDB, Kafka, Python
+- Frontend: React JS, Next JS, JavaScript, Typescript, WordPress
+- Cloud e DevOps: AWS, Azure, Docker, pipelines CI/CD
+- Especialização adicional: Integração de APIs
 
->> Inglês Avançado.
+Aprendiz ao longo da vida: atualmente estudando Java, Kubernetes, Cloud ☁️ (AWS e Azure) e conversação em espanhol.
 
-Atualmente estudo: Java, Spring Boot, React JS, Kubernetes, Cloud ☁️ (AWS).
+Interesses pessoais:
+- Sou apaixonada por natureza, vôlei, corrida e passar tempo com meu cachorro fofo. 🏃🏻‍♀️🏐🐶
 
-Sou criadora de conteúdos para o YouTube e Instagram, principalmente sobre hábitos e carreira (principalmente em Tecnologia e Finanças). Procure por "Nat Tecnologia e Finanças".
+Combinando minha habilidade comercial com técnicas, busco enfrentar desafios de forma criativa e eficaz, procurando constantemente oportunidades para crescimento e aprimoramento.
 
-Jogo vôlei, corro e tenho um cachorrinho fofo. 🏃🏻‍♀️🏐🐶
+Para saber mais, entre em contato através do Linkedin acima.
