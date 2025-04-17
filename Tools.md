@@ -55,7 +55,7 @@
   - [Render](https://render.com/) - Free
   - [Vercel](https://vercel.com/) - Free
 
-## AIs
+## AIs for Search
 
 - [ChatGPT](https://openai.com/chatgpt/overview/)
 - [Copilot Microsoft](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
@@ -65,6 +65,10 @@
 - [Flora AI](https://www.florafauna.ai)
 - [Same.dev](https://same.dev/)
 - [Firebase Google](https://studio.firebase.google.com/)
+- [Lovable.dev](https://lovable.dev/)
+
+## AI for RAGs (Retrieval-Augmented Generation)
+- [OpenAI API Plataform](https://platform.openai.com/)
 
 ## Management
 - [Calendly](https://calendly.com/)
