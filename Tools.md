@@ -66,3 +66,9 @@
 - [Same.dev](https://same.dev/)
 - [Firebase Google](https://studio.firebase.google.com/)
 
+## Management
+- [Calendly](https://calendly.com/)
+- [Trello](http://trello.com/)
+- Moodle
+- [Notion](https://www.notion.so/)
+
