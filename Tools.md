@@ -79,12 +79,22 @@
 - [Claude](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 - [Deepseek](https://api-docs.deepseek.com/)
 - [Flora AI](https://www.florafauna.ai)
-- [Same.dev](https://same.dev/)
-- [Firebase Google](https://studio.firebase.google.com/)
+
+## AI Coding Tools
+- [Devin](https://devin.ai/) - AI coding agent
+- [Windsurf](https://windsurf.com/) - AI IDE
 - [Lovable.dev](https://lovable.dev/)
+- [Same.dev](https://same.dev/)
+- [Firebase Studio](https://studio.firebase.google.com/)
 
 ## AI for RAGs (Retrieval-Augmented Generation)
 - [OpenAI API Plataform](https://platform.openai.com/)
+
+## IDEs & Editors
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+ 
+## Methodologies & Practices
+- Spec-Driven Development (SDD)
 
 ## Management
 - [Calendly](https://calendly.com/)
