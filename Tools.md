@@ -2,17 +2,25 @@
 
 ## Backend
 - Java
+  <details>
+  <summary>Java Frameworks & Libraries</summary>
+ 
+  - [Spring Boot](https://spring.io/projects/spring-boot)
+</details>
+
 - Node.js
-- Spring Boot
 - Python
   <details>
-  <summary>Python Libraries</summary>
+  <summary>Python Frameworks & Libraries</summary>
 
+  - [FastAPI](https://fastapi.tiangolo.com/)
   - [Matplotlib](https://matplotlib.org/stable/index.html)
   - [NumPy](https://numpy.org/doc/stable/)
   - [Pandas](https://pandas.pydata.org/docs/)
+  - [Pydantic](https://docs.pydantic.dev/)
   - [Requests](https://docs.python-requests.org/en/master/index.html)
   - [Streamlit](https://docs.streamlit.io/)
+  - [Uvicorn](https://www.uvicorn.org/)
   - [yfinance](https://yfinance-python.org/index.html)
 </details>
 
@@ -21,18 +29,22 @@
 - TypeScript
 - JavaScript
 - React.js
-- Next.js
-- [Tailwind](https://tailwindcss.com/)
-
   <details>
   <summary>React UI & Icon Libraries</summary>
 
+  - [React Hot Toast](https://react-hot-toast.com/)
   - [React Icons](https://react-icons.github.io/react-icons/)
   - [Material UI Icons](https://mui.com/material-ui/icons/)
   - [Font Awesome](https://fontawesome.com/)
   - [Bootstrap Icons](https://icons.getbootstrap.com/)
   - [ShadCN UI](https://ui.shadcn.com/)
 </details>
+
+- Next.js
+- [Vite](https://vite.dev/)
+- [Tailwind](https://tailwindcss.com/)
+
+
 
 ## Databases
   - DB2
@@ -46,6 +58,7 @@
 
   - [MongoDB Atlas](https://www.mongodb.com/atlas) - Free
   - [Neon](https://neon.tech/) - PostgreSQL Free
+  - [Supabase](https://supabase.com/) - PostgreSQL + Auth Free
 
 
 ## Cloud Deployment
@@ -54,6 +67,9 @@
   - [Azure](https://azure.microsoft.com/)
   - [Render](https://render.com/) - Free
   - [Vercel](https://vercel.com/) - Free
+
+## APIs & Services
+- [Brevo](https://www.brevo.com/) - Transactional e-mails / Free SMTP
 
 ## AIs for Search
 
