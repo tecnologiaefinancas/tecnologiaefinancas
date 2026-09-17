@@ -34,16 +34,11 @@ English C1 | Brazilian Portuguese Native | Spanish C1.
 
 ## Contact
 <section>
-    <a href="https://www.linkedin.com/in/natalia-feitosa-cga-cfp" target="_blank" style="text-decoration:none">
+    <a href="https://www.linkedin.com/in/natalia-feitosa-tf/" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://linktr.ee/tecnologiaefinancas" target="_blank" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
     </a>
 </section>
 </br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tecnologiaefinancas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  /><div>
 
 ______
 
