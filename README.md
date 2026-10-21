@@ -52,6 +52,9 @@ My diverse background has equipped me with strong communication skills and the a
 - **Advanced Spanish**: reading and listening. Intermediate: writing and speaking.
 - YouTuber and Content Creator: I create content related to #technology, #finance, #habits, and #leadership on YouTube and Instagram.
 
+### Professional evolution
+See [PROFESSIONAL-EVOLUTION.md](PROFESSIONAL-EVOLUTION.md) for a map of my public repositories by topic and date.
+
 ### Technical Expertise:
 - **Backend:** Java, Spring Boot, SQL, NoSQL, Git, Android, PostgreSQL, MongoDB, Kafka, Python
 - **Frontend:** React JS, Next JS, JavaScript, Typescript, WordPress
